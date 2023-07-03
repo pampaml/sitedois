@@ -23,5 +23,6 @@ Meu outro site, referente às ultimas aulas de matematica II
 	
 		<p>A good song that i like is called <em><strong>Get Back</strong></em> tell a history of a guy that leave your city behind and go to California to live his life the part of the song that portray it is a little bit like this <strong><em>Jojo left his home in Tucson, Arizona for some California grass</em></strong></p>
 		<p>Join to the Beatles site.<br> <a href="https://www.thebeatles.com"> thebeatles.com</a> </p>
+  <p>And how i like to say and write about culture, let's see a good topic, my school the have offer to the students so much culture and we learn about so many things there. I'm proud to say that sice i went to this school my knowledge about music, movies, tv show and even discipline. I'll put my school ig instagram here and i hope you like it like me. <a href="https://www.instagram.com/omc_colegio/"> omcthebestschool.com </a></p>
 	</body>
  </html>
